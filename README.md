@@ -1,3 +1,8 @@
+# Based off
+
+This has been based off of https://github.com/electron/electron-quick-start
+ 
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
